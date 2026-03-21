@@ -4,4 +4,4 @@
 
 ## This Page
 
-![face-smzkw-qr.png](face-smzkw-qr.png)
+![qr.png](qr.png)
