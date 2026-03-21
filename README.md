@@ -1,3 +1,3 @@
-# Links 
+## Links 
 
-- for PythonASIA 2026: https://github.com/shimizukawa/pyxel-slide-pyasia-2026/blob/main/README.md
+- for PythonASIA 2026: <https://github.com/shimizukawa/pyxel-slide-pyasia-2026/blob/main/README.md>
